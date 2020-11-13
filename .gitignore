@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+# Adding large Files
+ratings.csv
+movies_metadata.csv
 __pycache__/
 *.py[cod]
 *$py.class
